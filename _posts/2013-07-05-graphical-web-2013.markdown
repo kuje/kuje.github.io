@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Graphical Web 2013"
 date:   2013-07-05 12:39:34
-categories: jekyll update
+categories: kuje
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
